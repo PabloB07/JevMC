@@ -1,0 +1,5 @@
+name: JevMCModeration
+version: 1.0.0
+main: dev.blancocl.jevmc.paper.ModerationPlugin
+api-version: '1.21'
+description: Chat moderation for PaperMC powered by Jev (TypeSafe.ai)

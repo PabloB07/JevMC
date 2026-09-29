@@ -1,0 +1,12 @@
+# TypeSafe.ai API key (get yours at https://console.typesafe.ai/keys).
+# If left empty, the plugin falls back to the TYPESAFE_API_KEY environment variable.
+api-key: ""
+
+# Request timeout in seconds for each TypeSafe.ai API call.
+request-timeout-seconds: 30
+
+# Toxicity threshold (0.0 - 1.0) above which a message gets flagged.
+toxicity-threshold: 0.8
+
+# When true, flagged messages are cancelled (never sent to players).
+cancel-message: false
