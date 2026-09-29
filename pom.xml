@@ -10,7 +10,14 @@
     <packaging>jar</packaging>
 
     <name>JevMC</name>
-    <description>Libreria Java para usar Jev (TypeSafe.ai System One) en plugins de PaperMC</description>
+    <description>Unofficial Java SDK for Jev (TypeSafe.ai System One) - for PaperMC plugins</description>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
 
     <properties>
         <maven.compiler.release>17</maven.compiler.release>

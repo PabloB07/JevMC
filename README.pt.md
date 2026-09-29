@@ -6,6 +6,7 @@
 ![AI](https://img.shields.io/badge/AI-Jev%20%2F%20TypeSafe.ai-purple)
 ![Tests](https://img.shields.io/badge/tests-4%2F4%20passing-brightgreen)
 ![Status](https://img.shields.io/badge/status-unofficial%20SDK-lightgrey)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Uma biblioteca Java simples para usar [Jev](https://docs.typesafe.ai/) da [TypeSafe.ai](https://typesafe.ai) em plugins de **PaperMC**.
 
