@@ -27,8 +27,8 @@ Add the library to your `pom.xml` (or install `jevmc-1.0.0.jar` into your local 
 
 ```xml
 <dependency>
-    <groupId>dev.blancocl</groupId>
-    <artifactId>jevmc</artifactId>
+    <groupId>com.github.PabloB07</groupId>
+    <artifactId>JevMC</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
